@@ -1,4 +1,4 @@
-ARG VERSION="v1.5.10"
+ARG VERSION="v1.6.0"
 # Builder
 FROM alpine as builder
 ARG VERSION
